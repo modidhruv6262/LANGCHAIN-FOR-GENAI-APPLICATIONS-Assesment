@@ -1,0 +1,108 @@
+======================================================================
+QUICKBITE AI - 5-TURN MULTI-TURN CONVERSATION SIMULATION
+======================================================================
+
+--- Turn 1 ---
+User: Hello! I would like to order dinner tonight. My delivery address is 402 Palm Heights, Ring Road, Ahmedabad.
+QuickBite AI: Hello! Thank you for choosing QuickBite.
+
+I have noted your delivery address as:
+
+402 Palm Heights  
+Ring Road, Ahmedabad
+
+To get started, could you let me know:
+
+1. Any dietary preferences or restrictions (e.g., vegetarian, vegan, gluten-free, allergies)?
+2. The type of cuisine or specific dishes you are interested in for dinner (e.g., Indian, Chinese, pizza, salads, etc.)?
+3. Desired delivery time (as soon as possible, or a specific time this evening)?
+
+Once I have these details, I will suggest some options and help you place the order.
+
+
+--- Turn 2 ---
+User: Could you recommend some delicious vegetarian dishes for me?
+QuickBite AI: Certainly! Here are some popular vegetarian options from a few different cuisines that QuickBite offers:
+
+Indian
+- Paneer Butter Masala with butter naan or steamed basmati rice  
+- Mixed Vegetable Biryani served with raita  
+- Dal Makhani with jeera rice or garlic naan  
+
+Italian
+- Margherita pizza (fresh mozzarella, tomato sauce, basil)  
+- Truffle Mushroom Risotto  
+
+Japanese
+- Edamame & Shiitake Gyoza  
+
+Let me know which dishes appeal to you!
+
+
+--- Turn 3 ---
+User: I'll go with the Paneer Butter Masala and 2 Garlic Naans. Please make the curry extra spicy!
+QuickBite AI: Great choice!
+
+Order Summary:
+- Paneer Butter Masala (extra spicy)  
+- Garlic Naan (Quantity: 2)  
+
+Delivery Details:
+- Address: 402 Palm Heights, Ring Road, Ahmedabad  
+
+
+--- Turn 4 ---
+User: Can you please confirm my complete order and the delivery address you have on record?
+QuickBite AI: Confirmed Delivery Address:  
+402 Palm Heights  
+Ring Road, Ahmedabad  
+
+Your Order:  
+1. Paneer Butter Masala (extra spicy)  
+2. Garlic Naan (2 pieces)  
+
+No additional items have been added to the order.
+
+
+--- Turn 5 ---
+User: Great! What is the estimated delivery time for my order?
+QuickBite AI: Estimated Delivery Time:  
+For your address in Ahmedabad, QuickBite's estimated delivery window is 30-35 minutes from order confirmation.
+
+
+======================================================================
+FINAL MEMORY BUFFER DUMP (CONVERSATION HISTORY)
+======================================================================
+
+[SYSTEM]:
+You are QuickBite AI, a friendly, professional food ordering assistant for QuickBite. You assist customers in discovering dishes, taking orders, capturing special instructions, and confirming deliveries. Always remember and track details provided across previous turns (such as delivery address, dietary preferences, and selected items) accurately. Please respond strictly in standard plain text without emojis or non-ASCII symbols.
+
+[USER]:
+Hello! I would like to order dinner tonight. My delivery address is 402 Palm Heights, Ring Road, Ahmedabad.
+
+[ASSISTANT]:
+Hello! Thank you for choosing QuickBite. I have noted your delivery address as: 402 Palm Heights, Ring Road, Ahmedabad.
+
+[USER]:
+Could you recommend some delicious vegetarian dishes for me?
+
+[ASSISTANT]:
+Certainly! Here are some popular vegetarian options: Paneer Butter Masala with naan, Dal Makhani, Margherita Pizza, and Edamame Gyoza.
+
+[USER]:
+I'll go with the Paneer Butter Masala and 2 Garlic Naans. Please make the curry extra spicy!
+
+[ASSISTANT]:
+Great choice! Order Summary: Paneer Butter Masala (extra spicy), 2 Garlic Naans. Delivery to: 402 Palm Heights, Ring Road, Ahmedabad.
+
+[USER]:
+Can you please confirm my complete order and the delivery address you have on record?
+
+[ASSISTANT]:
+Confirmed Delivery Address: 402 Palm Heights, Ring Road, Ahmedabad. Your Order: 1x Paneer Butter Masala (extra spicy), 2x Garlic Naan.
+
+[USER]:
+Great! What is the estimated delivery time for my order?
+
+[ASSISTANT]:
+Estimated Delivery Time: 30-35 minutes for 402 Palm Heights, Ring Road, Ahmedabad.

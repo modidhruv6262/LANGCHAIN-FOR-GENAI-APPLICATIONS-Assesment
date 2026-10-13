@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "category": "Main Course",
+    "cuisine": "Indian",
+    "price": 320,
+    "is_veg": true,
+    "description": "Succulent cubes of cottage cheese simmered in a velvety tomato and cashew gravy enriched with butter and aromatic spices."
+  },
+  {
+    "id": 2,
+    "name": "Dal Makhani",
+    "category": "Main Course",
+    "cuisine": "Indian",
+    "price": 280,
+    "is_veg": true,
+    "description": "Slow-cooked black lentils and kidney beans simmered overnight with butter, cream, and subtle smoky spices."
+  },
+  {
+    "id": 3,
+    "name": "Butter Naan",
+    "category": "Breads",
+    "cuisine": "Indian",
+    "price": 60,
+    "is_veg": true,
+    "description": "Tandoor-baked leavened flatbread brushed lavishly with fresh melted butter and herbs."
+  },
+  {
+    "id": 4,
+    "name": "Chicken Tikka Biryani",
+    "category": "Main Course",
+    "cuisine": "Indian",
+    "price": 420,
+    "is_veg": false,
+    "description": "Fragrant basmati rice layered with spiced chargrilled chicken tikka, caramelized onions, and saffron."
+  },
+  {
+    "id": 5,
+    "name": "Margherita Gourmet Pizza",
+    "category": "Pizza",
+    "cuisine": "Italian",
+    "price": 390,
+    "is_veg": true,
+    "description": "Wood-fired hand-tossed crust topped with San Marzano tomato sauce, fresh mozzarella fior di latte, and basil leaves."
+  },
+  {
+    "id": 6,
+    "name": "Truffle Mushroom Risotto",
+    "category": "Main Course",
+    "cuisine": "Italian",
+    "price": 450,
+    "is_veg": true,
+    "description": "Creamy Arborio rice simmered in vegetable stock with wild porcini mushrooms, parmesan shavings, and white truffle oil."
+  },
+  {
+    "id": 7,
+    "name": "Grilled Lemon Herb Chicken",
+    "category": "Main Course",
+    "cuisine": "Continental",
+    "price": 480,
+    "is_veg": false,
+    "description": "Juicy chicken breast marinated in rosemary, garlic, and citrus olive oil, served with sauteed greens."
+  },
+  {
+    "id": 8,
+    "name": "Avocado & Corn Burrito Bowl",
+    "category": "Bowls",
+    "cuisine": "Mexican",
+    "price": 350,
+    "is_veg": true,
+    "description": "Hearty bowl of cilantro-lime brown rice, roasted sweet corn, black beans, pico de gallo, and fresh guacamole."
+  },
+  {
+    "id": 9,
+    "name": "Crispy Prawn Tempura Roll",
+    "category": "Sushi",
+    "cuisine": "Japanese",
+    "price": 520,
+    "is_veg": false,
+    "description": "Golden crispy tempura prawns rolled with nori, seasoned sushi rice, cucumber, and spicy sriracha mayo."
+  },
+  {
+    "id": 10,
+    "name": "Edamame & Shiitake Gyoza",
+    "category": "Starters",
+    "cuisine": "Japanese",
+    "price": 310,
+    "is_veg": true,
+    "description": "Pan-seared Japanese dumplings stuffed with minced edamame, shiitake mushrooms, ginger, and scallions."
+  },
+  {
+    "id": 11,
+    "name": "Belgian Chocolate Lava Cake",
+    "category": "Dessert",
+    "cuisine": "Continental",
+    "price": 220,
+    "is_veg": true,
+    "description": "Warm, decadent dark chocolate cake with a molten truffle center, dusted with powdered sugar."
+  },
+  {
+    "id": 12,
+    "name": "Gulab Jamun with Rabdi",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "price": 180,
+    "is_veg": true,
+    "description": "Soft golden milk dumplings soaked in cardamom saffron syrup, served over chilled slow-reduced rabdi."
+  }
+]

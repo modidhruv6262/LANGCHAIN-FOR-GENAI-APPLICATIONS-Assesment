@@ -1,0 +1,9 @@
+scikit-learn
+joblib
+flask
+streamlit
+langchain
+langchain-groq
+python-dotenv
+requests
+numpy
